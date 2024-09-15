@@ -14,5 +14,6 @@ Key Features
 	•	Data Augmentation: Techniques like rotation, width shift, height shift, shear, zoom, and horizontal flip are applied to increase the diversity of the training data.
 	•	Bootstrapping: Multiple models are trained using bootstrapped samples to enhance performance and reduce variance.
 	•	Evaluation Metrics: Accuracy, precision, recall, and F1-score are used to evaluate model performance.
-	•	Overfitting Mitigation: Techniques like lowering the learning rate, early stopping, and increasing batch size are used to stabilize the model and improve generalization.
+	•	Overfitting Mitigation: Techniques like lowering the learning rate, early stopping, and increasing batch size are used to stabilize the model<img width="732" alt="Screenshot 2024-09-14 at 8 17 10 PM" src="https://github.com/user-attachments/assets/29a9269a-1349-412c-ba6e-8fb060e37774">
+ and improve generalization.
 
